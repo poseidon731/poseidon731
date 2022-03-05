@@ -15,12 +15,12 @@ I specialize in building robust backends that do all the heavy lifting for your 
   <a href="https://join.skype.com/invite/BEufB8fsn5Fe"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 </h1>
 
-<p align="center"><img align="center" src="https://github.com/poseidon731/poseidon731/blob/main/banner.jpg?raw=true" style = "width: -webkit-fill-available;"/></p>
-
+<p align="center">
+  <img align="center" src="https://github.com/poseidon731/poseidon731/blob/main/banner.jpg?raw=true" style = "width: -webkit-fill-available;"/></p>
 <br/>  
 
 <p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=IceDev528&column=7&theme=onedark"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=poseidon731&column=7&theme=onedark"/>
 </p>
 
 ## 𝑺𝒌𝒊𝒍𝒍 𝑺𝒆𝒕 

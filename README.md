@@ -75,12 +75,9 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <p align="center" style="margin-bottom: 10px;">
     <img src="https://github-profile-trophy.vercel.app/?username=poseidon731&column=7&theme=onedark"/>
 </p>
-<div align="center">
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=poseidon731&show_icons=true&theme=merko&count_private=true" />
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poseidon731&layout=compact&theme=merko&count_private=true" />
+<img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=poseidon731&show_icons=true&theme=merko&count_private=true" />
+<img align="right" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poseidon731&layout=compact&theme=merko&count_private=true" />
 <img height="150px" />
-</div>
-
 <br/>  
 
 ## 𝑾𝒉𝒂𝒕 𝑪𝒂𝒏 𝑫𝒐

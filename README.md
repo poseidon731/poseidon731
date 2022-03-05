@@ -76,8 +76,8 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=poseidon731.poseidon731" />
 <img align="right" src="https://img.shields.io/github/followers/poseidon731?label=Follow&style=social" />
 <h1 align="center"></h1>
-<img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=poseidon731&show_icons=true&theme=merko&count_private=true" />
-<img align="right" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poseidon731&layout=compact&theme=merko&count_private=true" />
+<img align="left" height="180px" src="https://github-readme-stats.vercel.app/api?username=poseidon731&show_icons=true&theme=merko&count_private=true" />
+<img align="right" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poseidon731&layout=compact&theme=merko&count_private=true" />
 <img height="150px" /> 
 
 <br/>  

@@ -19,6 +19,10 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <br/>  
 
+<p align="center" style="margin-bottom: 10px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=IceDev528&column=7&theme=onedark"/>
+</p>
+
 ## 𝑺𝒌𝒊𝒍𝒍 𝑺𝒆𝒕 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />  

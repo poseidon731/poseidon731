@@ -19,10 +19,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
   <img align="center" src="https://github.com/poseidon731/poseidon731/blob/main/banner.jpg?raw=true" style = "width: -webkit-fill-available;"/></p>
 <br/>  
 
-<p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=poseidon731&column=7&theme=onedark"/>
-</p>
-
 ## 𝑺𝒌𝒊𝒍𝒍 𝑺𝒆𝒕 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />  
@@ -75,6 +71,9 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ## 𝑮𝒊𝒕𝒉𝒖𝒃 𝑺𝒕𝒂𝒕𝒔 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=poseidon731.poseidon731" />
 <img align="right" src="https://img.shields.io/github/followers/poseidon731?label=Follow&style=social" />
+<p align="center" style="margin-bottom: 10px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=poseidon731&column=7&theme=onedark"/>
+</p>
 <h1 align="center"></h1>
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=poseidon731&show_icons=true&theme=merko&count_private=true" />
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poseidon731&layout=compact&theme=merko&count_private=true" />

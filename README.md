@@ -15,7 +15,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
   <a href="https://join.skype.com/invite/BEufB8fsn5Fe"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 </h1>
 
-<p align="center"><img align="center" src="https://github.com/rafael731/rafael731/blob/main/banner.jpg?raw=true" style = "width: -webkit-fill-available;"/></p>
+<p align="center"><img align="center" src="https://github.com/poseidon731/poseidon731/blob/main/banner.jpg?raw=true" style = "width: -webkit-fill-available;"/></p>
 
 <br/>  
 
@@ -70,10 +70,10 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 ## 𝑮𝒊𝒕𝒉𝒖𝒃 𝑺𝒕𝒂𝒕𝒔 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=boinik-dev.boinik-dev" />
-<img align="right" src="https://img.shields.io/github/followers/rafael731?label=Follow&style=social" />
+<img align="right" src="https://img.shields.io/github/followers/poseidon731?label=Follow&style=social" />
 <h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=rafael731&show_icons=true&theme=merko&count_private=true" />
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael731&layout=compact&theme=merko&count_private=true" />
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=poseidon731&show_icons=true&theme=merko&count_private=true" />
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poseidon731&layout=compact&theme=merko&count_private=true" />
 <img height="150px" /> 
 
 <br/>  
@@ -97,7 +97,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 </div>
 
-<p align="center"><img height="300px" src="https://activity-graph.herokuapp.com/graph?username=rafael731&theme=github&count_private=true" /></p>
+<p align="center"><img height="300px" src="https://activity-graph.herokuapp.com/graph?username=poseidon731&theme=github&count_private=true" /></p>
 
 ## 𝑪𝒐𝒏𝒕𝒂𝒄𝒕
 

@@ -80,7 +80,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=poseidon731&show_icons=true&theme=merko&count_private=true" />
 <img align="right" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poseidon731&layout=compact&theme=merko&count_private=true" />
 <img height="150px" />
-<br/>  
+<!-- <br/>  
 
 ## 𝑾𝒉𝒂𝒕 𝑪𝒂𝒏 𝑫𝒐
 
@@ -99,7 +99,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ### Video Conference Web and Mobile application
 <br />
 
-</div>
+</div> -->
 
 <p align="center"><img height="300px" src="https://activity-graph.herokuapp.com/graph?username=poseidon731&theme=github&count_private=true" /></p>
 

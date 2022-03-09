@@ -8,12 +8,14 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
 
 I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
 
-<h1 align="center">
+<!-- <h1 align="center"> -->
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
   <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-  <a href="https://join.skype.com/invite/BEufB8fsn5Fe"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
-</h1>
+  <a href="https://join.skype.com/invite/BEufB8fsn5Fe">
+    <img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/>
+  </a>
+<!-- </h1> -->
 <!-- 
 <p align="center">
   <img align="center" src="https://github.com/poseidon731/poseidon731/blob/main/banner.jpg?raw=true" style = "width: -webkit-fill-available;"/></p>

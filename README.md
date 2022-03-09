@@ -101,11 +101,11 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <p align="center"><img height="300px" src="https://activity-graph.herokuapp.com/graph?username=poseidon731&theme=github&count_private=true" /></p>
 
-## 𝑪𝒐𝒏𝒕𝒂𝒄𝒕
+<!-- ## 𝑪𝒐𝒏𝒕𝒂𝒄𝒕
 
 <a href="https://join.skype.com/invite/BEufB8fsn5Fe">
     <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="mailto:topdev731@gmail.com">
     <img src="https://img.shields.io/badge/email-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+</a> -->

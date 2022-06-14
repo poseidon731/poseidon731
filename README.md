@@ -101,7 +101,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 </div> -->
 
-<p align="center"><img height="300px" src="https://activity-graph.herokuapp.com/graph?username=poseidon731&theme=github&count_private=true" /></p>
+<!-- <p align="center"><img height="300px" src="https://activity-graph.herokuapp.com/graph?username=poseidon731&theme=github&count_private=true" /></p> -->
 
 <!-- ## 𝑪𝒐𝒏𝒕𝒂𝒄𝒕
 

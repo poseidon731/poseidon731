@@ -104,7 +104,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <p align="center"><img height="300px" src="https://activity-graph.herokuapp.com/graph?username=poseidon731&theme=github&count_private=true" /></p>
 
 ## Watch my contribution graph get eaten by the snake 🐍
-![snake gif](https://github.com/poseidon731/poseidon731/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/anirudhjak06/anirudhjak06/blob/output/github-contribution-grid-snake.gif)
 
 <!-- ## 𝑪𝒐𝒏𝒕𝒂𝒄𝒕
 
